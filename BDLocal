@@ -1,0 +1,11 @@
+{
+  "ids": {
+    "Reservacion": 3
+  },
+  "models": {
+    "Reservacion": {
+      "1": "{\"fecha\":\"25/05/2020\",\"evento\":\"Seminarios de tesis\",\"id\":1}",
+      "2": "{\"fecha\":\"20/01/2021\",\"evento\":\"Avances de investigacion\",\"id\":2}"
+    }
+  }
+}
